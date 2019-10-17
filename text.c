@@ -2,5 +2,11 @@
 
 int main(void)
 {
-  printf("hello world!\n");
+    int i = 0;
+
+    printf("hello world!\n");
+
+
+//    while (1);
+    return 0;
 }
